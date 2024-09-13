@@ -1,6 +1,6 @@
 {
-    "name": "food_stock_web",
-    "short_name": "food_stock_web",
+    "name": "FoodStock",
+    "short_name": "FoodStock",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
